@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//liorovadia.github.io/stocks-alerts-react/static/css/main.76af8c49.css",
+    "main.js": "//liorovadia.github.io/stocks-alerts-react/static/js/main.cc6ea377.js",
+    "static/js/453.8a2f76d1.chunk.js": "//liorovadia.github.io/stocks-alerts-react/static/js/453.8a2f76d1.chunk.js",
+    "index.html": "//liorovadia.github.io/stocks-alerts-react/index.html",
+    "main.76af8c49.css.map": "//liorovadia.github.io/stocks-alerts-react/static/css/main.76af8c49.css.map",
+    "main.cc6ea377.js.map": "//liorovadia.github.io/stocks-alerts-react/static/js/main.cc6ea377.js.map",
+    "453.8a2f76d1.chunk.js.map": "//liorovadia.github.io/stocks-alerts-react/static/js/453.8a2f76d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76af8c49.css",
+    "static/js/main.cc6ea377.js"
+  ]
+}
